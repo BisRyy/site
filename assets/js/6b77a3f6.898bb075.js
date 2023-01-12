@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkyangshuntay_com=self.webpackChunkyangshuntay_com||[]).push([[2668],{9564:t=>{t.exports=JSON.parse('{"permalink":"/site/blog/tags/communication","page":1,"postsPerPage":10,"totalPages":1,"totalCount":1,"blogDescription":"Blog","blogTitle":"Blog"}')}}]);
