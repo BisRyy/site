@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkyangshuntay_com=self.webpackChunkyangshuntay_com||[]).push([[1249],{9995:e=>{e.exports=JSON.parse('{"permalink":"/site/blog/tags/meta","page":1,"postsPerPage":10,"totalPages":1,"totalCount":1,"blogDescription":"Blog","blogTitle":"Blog"}')}}]);

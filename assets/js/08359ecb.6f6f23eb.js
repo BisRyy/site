@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkyangshuntay_com=self.webpackChunkyangshuntay_com||[]).push([[8250],{5585:a=>{a.exports=JSON.parse('{"label":"communication","permalink":"/site/blog/tags/communication","allTagsPath":"/site/blog/tags","count":1}')}}]);
