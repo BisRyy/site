@@ -24,7 +24,7 @@ function Home() {
   const {siteConfig = {}} = context;
   const {internetProfiles} = siteConfig.themeConfig;
   return (
-    <Layout title="Front End Engineer">
+    <Layout title="Software Engineer">
       <header className={classnames('hero', styles.header)}>
         <div className="container">
           <img
@@ -37,7 +37,7 @@ function Home() {
           />
           <h1 className="hero__title">{siteConfig.title}</h1>
           <p className={styles.tagline}>
-            Build an entirely new world. <br/> One line at a time.
+            Building an the new world. <br/> One line at a time.
           </p>
           <div className={styles.internetProfiles}>
             {intersperse(

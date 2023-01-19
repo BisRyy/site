@@ -17,7 +17,7 @@
 }
 
 :root {
-  --ifm-color-primary: #ff940f;
+  --ifm-color-primary: #24a39b;  /* ff940f */
   --ifm-color-primary-dark: #f38700;
   --ifm-color-primary-darker: #e67f00;
   --ifm-color-primary-darkest: #bd6900;

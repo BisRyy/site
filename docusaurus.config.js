@@ -61,10 +61,8 @@ module.exports = {
         alt: 'BisRy Logo',
         src: 'https://github.com/Bisryy.png',
         width: 32,
-        height: 32,
         style:{
           borderRadius: '50%',
-          maxWidth: 196,
         },
       },
       items: [
