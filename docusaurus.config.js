@@ -8,48 +8,71 @@
 const internetProfiles = {
   github: {
     label: 'GitHub',
-    href: 'https://github.com/yangshun',
+    href: 'https://github.com/BisRyy',
   },
-  stackoverflow: {
-    label: 'StackOverflow',
-    href: 'https://stackoverflow.com/u/1751946',
+  leetcode: {
+    label: 'Leetcode',
+    href: 'https://leetcode.com/BisRy',
   },
   linkedin: {
     label: 'LinkedIn',
-    href: 'https://www.linkedin.com/in/yangshun',
+    href: 'https://www.linkedin.com/in/BisRy',
   },
   medium: {
     label: 'Medium',
-    href: 'https://medium.com/@yangshun',
+    href: 'https://medium.com/@BisRy',
   },
   twitter: {
     label: 'Twitter',
-    href: 'https://twitter.com/yangshunz',
+    href: 'https://twitter.com/BisRyyy',
   },
   facebook: {
     label: 'Facebook',
-    href: 'https://facebook.com/yangshun',
+    href: 'https://www.facebook.com/Bisrat.Gr/',
+  },
+  telegram: {
+    label: 'Telegram',
+    href: 'https://t.me/BisRy',
+  },
+  instagram: {
+    label: 'Instagram',
+    href: 'https://www.instagram.com/bisrat_gr/',
   },
 };
 
 module.exports = {
-  title: 'Yangshun Tay',
-  tagline: 'Front End Engineer',
-  url: 'https://yangshuntay.com',
+  title: 'Bisrat Kebere',
+  tagline: 'Software Engineer',
+  url: 'https://bisrat.tech',
   baseUrl: '/',
   trailingSlash: true,
-  organizationName: 'yangshun',
-  projectName: 'yangshuntay.com',
+  deploymentBranch: 'gh-pages',
+  organizationName: 'BisRyy',
+  projectName: 'site',
+  customFields: {
+    // Put your custom environment here
+    teamEmail: process.env.EMAIL,
+  },
   themeConfig: {
     internetProfiles,
     navbar: {
-      title: 'Yangshun',
+      // title: 'BisRy',
+      logo: {
+        alt: 'BisRy Logo',
+        src: 'https://github.com/Bisryy.png',
+        width: 32,
+        height: 32,
+        style:{
+          borderRadius: '50%',
+          maxWidth: 196,
+        },
+      },
       items: [
-        {to: 'blog', label: 'Blog', position: 'left'},
-        {to: 'resume', label: 'Resume', position: 'left'},
-        {to: 'goals', label: 'Life Goals', position: 'left'},
+        // {to: 'blog', label: 'Blog', position: 'left'},
+        // {to: 'resume', label: 'Resume', position: 'left'},
+        // {to: 'goals', label: 'Life Goals', position: 'left'},
         {
-          href: 'https://github.com/yangshun',
+          href: 'https://github.com/BisRyy',
           label: 'GitHub',
           position: 'right',
         },
@@ -63,16 +86,18 @@ module.exports = {
           title: 'Professional',
           items: [
             internetProfiles.github,
-            internetProfiles.stackoverflow,
+            internetProfiles.leetcode,
             internetProfiles.linkedin,
+            internetProfiles.medium,
           ],
         },
         {
           title: 'Social',
           items: [
-            internetProfiles.medium,
+            internetProfiles.telegram,
             internetProfiles.twitter,
             internetProfiles.facebook,
+            internetProfiles.instagram,
           ],
         },
         {},

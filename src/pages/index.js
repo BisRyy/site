@@ -28,17 +28,16 @@ function Home() {
       <header className={classnames('hero', styles.header)}>
         <div className="container">
           <img
-            src="https://avatars0.githubusercontent.com/u/1315101?s=400&v=4"
+            src="https://github.com/Bisryy.png"
             alt="logo"
             style={{
               borderRadius: '50%',
-              maxWidth: 96,
+              maxWidth: 196,
             }}
           />
           <h1 className="hero__title">{siteConfig.title}</h1>
           <p className={styles.tagline}>
-            I built the static site generator and CSS framework powering this
-            website!
+            Build an entirely new world. <br/> One line at a time.
           </p>
           <div className={styles.internetProfiles}>
             {intersperse(
