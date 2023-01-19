@@ -1,6 +1,6 @@
 ---
 title: Life Goals
-description: Yangshun's life goals
+description: Bisrat's life goals
 hide_table_of_contents: true
 ---
 
@@ -10,22 +10,24 @@ hide_table_of_contents: true
 
 ## TODO
 
-- Speak at a JSConf
-- Publish a book
-- Create an online course
-- Build a state management framework
-- Build a Markdown parser from scratch
-- Build a package manager from scratch
-- Invent a programming language and write its compiler (toy one)
-- Build a module bundler
+- Complete ALx Software Engineering
+- Start Freelancing
+- Start a blog
+- Become a Competitive Programmer
+- Get an Internship
+- Build a working software product
+- Join Google
 - Become a Google Dev Expert
+- Start a StartUp Company
+- Lead The StartUp to Success
+...
 
 ## Done
 
-- Buy a nice house (2021, Jun)
-- Build a static site generator from scratch - Docusaurus (2021, Apr)
-- Build a CSS framework from scratch - Infima (2021, Jan)
-- Present at F8 (2019, Apr)
-- Work at Facebook (2017, Nov)
+- Join [A2SV](https://a2sv.org) (2022, Dec 9)
+- Join AASTU ~~Architechure~~ Software Engineering Department (2022, Feb 15)
+- Pass Entrance exam and join [AASTU](https://aastu.edu.et) (2021, June)
+- Pass University Entrance Exam (2020, June)
+- Born (2003, Jan 17)
 
 </div>

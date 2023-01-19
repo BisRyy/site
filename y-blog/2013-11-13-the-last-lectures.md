@@ -1,9 +1,9 @@
 ---
 title: The Last Lectures
 slug: the-last-lectures
-author: Yangshun Tay
-author_url: https://github.com/yangshun
-author_image_url: https://github.com/yangshun.png
+author: Bisrat Kebere
+author_url: https://github.com/bisryy
+author_image_url: https://github.com/bisryy.png
 tags: [cs3216]
 ---
 

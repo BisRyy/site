@@ -1,10 +1,10 @@
 ---
 title: Group Projects
 slug: group-projects
-author: Yangshun Tay
-author_url: https://github.com/yangshun
-author_image_url: https://github.com/yangshun.png
-tags: [cs3216]
+author: Bisrat Kebere
+author_url: https://github.com/bisryy
+author_image_url: https://github.com/bisryy.png
+tags: [Groupwork, Team]
 ---
 
 The trouble with group projects:

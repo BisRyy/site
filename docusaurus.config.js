@@ -68,9 +68,9 @@ module.exports = {
         },
       },
       items: [
-        // {to: 'blog', label: 'Blog', position: 'left'},
-        // {to: 'resume', label: 'Resume', position: 'left'},
-        // {to: 'goals', label: 'Life Goals', position: 'left'},
+        {to: 'blog', label: 'Blog', position: 'left'},
+        {to: 'resume', label: 'Resume', position: 'left'},
+        {to: 'goals', label: 'Life Goals', position: 'left'},
         {
           href: 'https://github.com/BisRyy',
           label: 'GitHub',
