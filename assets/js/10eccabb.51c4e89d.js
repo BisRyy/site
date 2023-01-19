@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkyangshuntay_com=self.webpackChunkyangshuntay_com||[]).push([[297],{8837:a=>{a.exports=JSON.parse('{"label":"Team","permalink":"/blog/tags/team","allTagsPath":"/blog/tags","count":2}')}}]);

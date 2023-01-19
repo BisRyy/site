@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkyangshuntay_com=self.webpackChunkyangshuntay_com||[]).push([[759],{2955:o=>{o.exports=JSON.parse('{"permalink":"/blog/tags/groupwork","page":1,"postsPerPage":10,"totalPages":1,"totalCount":2,"blogDescription":"Blog","blogTitle":"Blog"}')}}]);

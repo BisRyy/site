@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkyangshuntay_com=self.webpackChunkyangshuntay_com||[]).push([[713],{3457:a=>{a.exports=JSON.parse('[{"label":"Groupwork","permalink":"/blog/tags/groupwork","count":2},{"label":"Team","permalink":"/blog/tags/team","count":2}]')}}]);
