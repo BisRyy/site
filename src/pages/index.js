@@ -37,7 +37,7 @@ function Home() {
           />
           <h1 className="hero__title">{siteConfig.title}</h1>
           <p className={styles.tagline}>
-            Building an the new world. <br/> One line at a time.
+            Building a new world. <br/> One line at a time.
           </p>
           <div className={styles.internetProfiles}>
             {intersperse(
