@@ -10,10 +10,7 @@ hide_table_of_contents: true
 
 ## TODO
 
-- Complete ALx Software Engineering
 - Start Freelancing
-- Start a blog
-- Become a Competitive Programmer
 - Get an Internship
 - Build a working software product
 - Join Google
@@ -24,6 +21,9 @@ hide_table_of_contents: true
 
 ## Done
 
+- Become a Competitive Programmer, Top 15 [ICPC](https://drive.google.com/drive/folders/1sgAsI37AkK-PnHKB49yrlFu0uXiPVlKh?usp=sharing) Ethiopia (2023, August 21)
+- Complete ALx Software Engineering (2023, May 19)
+- Start a blog (2023, Jan 19)
 - Join [A2SV](https://a2sv.org) (2022, Dec 9)
 - Join AASTU ~~Architechure~~ Software Engineering Department (2022, Feb 15)
 - Pass Entrance exam and join [AASTU](https://aastu.edu.et) (2021, June)
