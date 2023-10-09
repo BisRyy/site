@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>Bisrat Kebere Blog</title>
+        <link>https://bisrat.tech/blog</link>
+        <description>Bisrat Kebere Blog</description>
+        <lastBuildDate>Sun, 08 Jan 2023 00:00:00 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <language>en</language>
+        <item>
+            <title><![CDATA[How to do Projects]]></title>
+            <link>https://bisrat.tech/blog/how-to-do-projects</link>
+            <guid>how-to-do-projects</guid>
+            <pubDate>Sun, 08 Jan 2023 00:00:00 GMT</pubDate>
+            <description><![CDATA[1. Work with the smart]]></description>
+            <content:encoded><![CDATA[<ol><li>Work with the <strong>smart</strong></li><li>Work with the <strong>creative</strong></li><li>Work with the <strong>hardworking</strong></li><li>Assign work according to each other's <strong>strengths</strong></li><li>If possible, <strong>modify</strong> your role to make up for an aspect your team is lacking in</li><li>Pick a topic that everyone is <strong>interested</strong> in</li><li>Have <strong>fun</strong> doing the work!</li></ol>]]></content:encoded>
+            <category>Groupwork</category>
+            <category>Team</category>
+        </item>
+        <item>
+            <title><![CDATA[Group Projects]]></title>
+            <link>https://bisrat.tech/blog/group-projects</link>
+            <guid>group-projects</guid>
+            <pubDate>Sat, 07 Jan 2023 00:00:00 GMT</pubDate>
+            <description><![CDATA[The trouble with group projects:]]></description>
+            <content:encoded><![CDATA[<p>The trouble with group projects:</p><ul><li>Grouping with <em>mediocre</em> teammates makes you want to do everything by yourself. You probably end up having to do so anyways and die in the process.</li><li>Grouping with <em>godlike</em> teammates encourages you to decide on a scope beyond the project and you guys die meeting the overly demanding specifications you have designed for yourself.</li></ul><p>Group work is <strong>hard</strong>.</p>]]></content:encoded>
+            <category>Groupwork</category>
+            <category>Team</category>
+        </item>
+    </channel>
+</rss>

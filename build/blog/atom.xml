@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://bisrat.tech/blog</id>
+    <title>Bisrat Kebere Blog</title>
+    <updated>2023-01-08T00:00:00.000Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://bisrat.tech/blog"/>
+    <subtitle>Bisrat Kebere Blog</subtitle>
+    <entry>
+        <title type="html"><![CDATA[How to do Projects]]></title>
+        <id>how-to-do-projects</id>
+        <link href="https://bisrat.tech/blog/how-to-do-projects"/>
+        <updated>2023-01-08T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[1. Work with the smart]]></summary>
+        <content type="html"><![CDATA[<ol><li>Work with the <strong>smart</strong></li><li>Work with the <strong>creative</strong></li><li>Work with the <strong>hardworking</strong></li><li>Assign work according to each other's <strong>strengths</strong></li><li>If possible, <strong>modify</strong> your role to make up for an aspect your team is lacking in</li><li>Pick a topic that everyone is <strong>interested</strong> in</li><li>Have <strong>fun</strong> doing the work!</li></ol>]]></content>
+        <author>
+            <name>Bisrat Kebere</name>
+            <uri>https://github.com/bisryy</uri>
+        </author>
+        <category label="Groupwork" term="Groupwork"/>
+        <category label="Team" term="Team"/>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Group Projects]]></title>
+        <id>group-projects</id>
+        <link href="https://bisrat.tech/blog/group-projects"/>
+        <updated>2023-01-07T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[The trouble with group projects:]]></summary>
+        <content type="html"><![CDATA[<p>The trouble with group projects:</p><ul><li>Grouping with <em>mediocre</em> teammates makes you want to do everything by yourself. You probably end up having to do so anyways and die in the process.</li><li>Grouping with <em>godlike</em> teammates encourages you to decide on a scope beyond the project and you guys die meeting the overly demanding specifications you have designed for yourself.</li></ul><p>Group work is <strong>hard</strong>.</p>]]></content>
+        <author>
+            <name>Bisrat Kebere</name>
+            <uri>https://github.com/bisryy</uri>
+        </author>
+        <category label="Groupwork" term="Groupwork"/>
+        <category label="Team" term="Team"/>
+    </entry>
+</feed>

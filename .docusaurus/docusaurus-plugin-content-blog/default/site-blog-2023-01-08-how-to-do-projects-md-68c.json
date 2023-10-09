@@ -1,0 +1,42 @@
+{
+  "permalink": "/blog/how-to-do-projects",
+  "source": "@site/blog/2023-01-08-how-to-do-projects.md",
+  "title": "How to do Projects",
+  "description": "1. Work with the smart",
+  "date": "2023-01-08T00:00:00.000Z",
+  "formattedDate": "January 8, 2023",
+  "tags": [
+    {
+      "label": "Groupwork",
+      "permalink": "/blog/tags/groupwork"
+    },
+    {
+      "label": "Team",
+      "permalink": "/blog/tags/team"
+    }
+  ],
+  "readingTime": 0.275,
+  "hasTruncateMarker": false,
+  "authors": [
+    {
+      "name": "Bisrat Kebere",
+      "url": "https://github.com/bisryy",
+      "imageURL": "https://github.com/bisryy.png"
+    }
+  ],
+  "frontMatter": {
+    "title": "How to do Projects",
+    "slug": "how-to-do-projects",
+    "author": "Bisrat Kebere",
+    "author_url": "https://github.com/bisryy",
+    "author_image_url": "https://github.com/bisryy.png",
+    "tags": [
+      "Groupwork",
+      "Team"
+    ]
+  },
+  "nextItem": {
+    "title": "Group Projects",
+    "permalink": "/blog/group-projects"
+  }
+}

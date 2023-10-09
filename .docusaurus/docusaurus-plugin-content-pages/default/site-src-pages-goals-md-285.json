@@ -1,0 +1,12 @@
+{
+  "type": "mdx",
+  "permalink": "/goals",
+  "source": "@site/src/pages/goals.md",
+  "title": "Life Goals",
+  "description": "Bisrat's life goals",
+  "frontMatter": {
+    "title": "Life Goals",
+    "description": "Bisrat's life goals",
+    "hide_table_of_contents": true
+  }
+}

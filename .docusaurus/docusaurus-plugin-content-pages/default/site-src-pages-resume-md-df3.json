@@ -1,0 +1,12 @@
+{
+  "type": "mdx",
+  "permalink": "/resume",
+  "source": "@site/src/pages/resume.md",
+  "title": "Resume",
+  "description": "Internet Profiles",
+  "frontMatter": {
+    "title": "Resume",
+    "slug": "resume",
+    "hide_table_of_contents": true
+  }
+}

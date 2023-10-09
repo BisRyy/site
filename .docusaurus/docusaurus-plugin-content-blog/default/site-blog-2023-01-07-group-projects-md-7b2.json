@@ -1,0 +1,42 @@
+{
+  "permalink": "/blog/group-projects",
+  "source": "@site/blog/2023-01-07-group-projects.md",
+  "title": "Group Projects",
+  "description": "The trouble with group projects:",
+  "date": "2023-01-07T00:00:00.000Z",
+  "formattedDate": "January 7, 2023",
+  "tags": [
+    {
+      "label": "Groupwork",
+      "permalink": "/blog/tags/groupwork"
+    },
+    {
+      "label": "Team",
+      "permalink": "/blog/tags/team"
+    }
+  ],
+  "readingTime": 0.325,
+  "hasTruncateMarker": false,
+  "authors": [
+    {
+      "name": "Bisrat Kebere",
+      "url": "https://github.com/bisryy",
+      "imageURL": "https://github.com/bisryy.png"
+    }
+  ],
+  "frontMatter": {
+    "title": "Group Projects",
+    "slug": "group-projects",
+    "author": "Bisrat Kebere",
+    "author_url": "https://github.com/bisryy",
+    "author_image_url": "https://github.com/bisryy.png",
+    "tags": [
+      "Groupwork",
+      "Team"
+    ]
+  },
+  "prevItem": {
+    "title": "How to do Projects",
+    "permalink": "/blog/how-to-do-projects"
+  }
+}
